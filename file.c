@@ -27,7 +27,9 @@ printf("%d", c);
 
 void muliply(int a, int b)
 {
-
+   // Payal
+c=a*b;
+printf("%d",c);
 
 }
 
